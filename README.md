@@ -33,5 +33,5 @@ python3 bot.py
 
 
 ### Developer
-- [Vampire](https://t.me/KP51107)
+- [Virat](https://t.me/Viratvishnu)
 
